@@ -8,7 +8,14 @@ Link to demo video: https://www.youtube.com/watch?v=HZ87deV1-pY from 6'15.
 The Stack:
  - Ruby On Rails
  - Javacript ES6
+ - SCSS
+ 
  - PostgreSQL
  - Heroku
+ 
+ - Pundit
+ - Devise
+ - ActionMailer
+ - Stripe
 
 Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
